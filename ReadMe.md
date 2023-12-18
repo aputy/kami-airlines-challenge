@@ -30,6 +30,8 @@ activate
 ### 4. Run project ###
 Run following commands in base directory of cloned project
 ```
+pip install -r requirements.txt
+
 cd main_app
 
 python manage.py makemigrations
